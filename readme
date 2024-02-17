@@ -1,0 +1,17 @@
+FLASHCARD APPLICATION
+
+Overview:
+This program will give a random question for a specified course pull randomly from a assortment of
+questions. It will then give the user the option to either present the answer or go to
+the next flashcard. This can be mainly used for studying math/physics to practice setting up
+problems.
+
+
+Features:
+Draws from pool of questions with solutions which can be changed at anytime.
+
+Gives randomly selected questions each time prompted.
+
+Can provide solution or just problem.
+
+Can switch between courses for different studying dates.
